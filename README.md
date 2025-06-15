@@ -9,7 +9,7 @@
 ## 🔗 Acesse a Calculadora
 
 Você pode testar a aplicação aqui:  
-👉 [Demo no GitHub Pages](https://seuusuario.github.io/nome-do-repositorio)
+👉 [Demo da Calculadora](https://1freelipe.github.io/Calculadora-CF/)
 
 ## 🧰 Tecnologias Utilizadas
 
